@@ -18,3 +18,5 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 9. Main receiving antenna SHOULD be mounted at least 5 m above ground level.
 10. Main receiving antenna MUST provide IPx4 ingress protection or better.
 11. Main receiving antenna MUST be able to withstand 30 mph winds.
+12. Entire system excluding batteries and ballast MUST NOT exceed 20 kg.
+13. A single set of batteries MUST NOT exceed 20 kg.
